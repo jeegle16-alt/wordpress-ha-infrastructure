@@ -144,9 +144,3 @@ vagrant ssh web01 -c "sudo systemctl stop httpd"
 - SSL/TLS 적용 (HTTPS)
 - 컨테이너 기반 전환 (Docker / Kubernetes)
 - Ansible 등을 활용한 프로비저닝 자동화
-
----
-
-## 📄 License
-
-This project is for educational purposes as part of the AWS AI School program.
